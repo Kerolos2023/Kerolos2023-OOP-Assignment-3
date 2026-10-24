@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="LinkedIn.md" />
+  </Folder>
+  <Project Path="Collections/Collections.csproj" Id="2c2b5801-857f-4cfc-aa34-8b3a37b875b4" />
+  <Project Path="Generics/Generics.csproj" Id="2b28e85e-69a0-4a3f-9d9f-02929ae09f83" />
+  <Project Path="OOP Assignment_3/Refactoring.csproj" />
+</Solution>
